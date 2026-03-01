@@ -4,7 +4,7 @@
 
 ### Builder · Data Enthusiast · Surfer 
 
-I like turning ideas into software — from AI-powered file systems to political data platforms.  
+I like turning ideas into software.
 Always exploring, always shipping.
 
 <br>
