@@ -58,6 +58,4 @@ A full-stack **data platform** that scrapes, collects, and analyzes speeches fro
 
 <div align="center">
 
-*Thanks for stopping by!* ✌️
-
 </div>
