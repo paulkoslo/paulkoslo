@@ -2,7 +2,7 @@
 
 # Hey, I'm Paul 👋
 
-### Builder · Tinkerer · Data Enthusiast
+### Builder · Data Enthusiast · Surfer 
 
 I like turning ideas into software — from AI-powered file systems to political data platforms.  
 Always exploring, always shipping.
