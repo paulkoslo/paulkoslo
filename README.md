@@ -46,6 +46,23 @@ A full-stack **data platform** that scrapes, collects, and analyzes speeches fro
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Enhancer](https://github.com/paulkoslo/Enhancer)
+
+> *Supercharge your spreadsheets with AI-driven research.*
+
+An **agentic Python system** that takes your Excel documents and automatically enriches them with AI-powered research data. Point it at a spreadsheet, tell it what you need, and watch it fill in the blanks — turning static tables into living, data-rich assets.
+
+`Python` · `Agentic AI` · `Excel` · `Research Automation`
+
+[![Enhancer](https://github-readme-stats.vercel.app/api/pin/?username=paulkoslo&repo=Enhancer&theme=vue&hide_border=true)](https://github.com/paulkoslo/Enhancer)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
