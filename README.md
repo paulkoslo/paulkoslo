@@ -19,7 +19,7 @@ Always exploring, always shipping.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🗂️ [Fily](https://github.com/paulkoslo/Fily)
 
@@ -32,7 +32,7 @@ A **local-first macOS app** built with TypeScript that indexes every file on you
 [![Fily](https://github-readme-stats.vercel.app/api/pin/?username=paulkoslo&repo=Fily&theme=vue&hide_border=true)](https://github.com/paulkoslo/Fily)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🇪🇺 [EUROWATCH](https://github.com/paulkoslo/EUROWATCH)
 
@@ -45,9 +45,7 @@ A full-stack **data platform** that scrapes, collects, and analyzes speeches fro
 [![EUROWATCH](https://github-readme-stats.vercel.app/api/pin/?username=paulkoslo&repo=EUROWATCH&theme=vue&hide_border=true)](https://github.com/paulkoslo/EUROWATCH)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ⚡ [Enhancer](https://github.com/paulkoslo/Enhancer)
 
@@ -59,8 +57,6 @@ An **agentic Python system** that takes your Excel documents and automatically e
 
 [![Enhancer](https://github-readme-stats.vercel.app/api/pin/?username=paulkoslo&repo=Enhancer&theme=vue&hide_border=true)](https://github.com/paulkoslo/Enhancer)
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
